@@ -13,8 +13,7 @@
     "shortName": "terminal-clock",
     "targetPlatforms": [
         "aplite",
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "51a209f2-e385-4bfd-9eab-5e17c2e45092",
     "versionLabel": "1.0",
