@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aisishayao@gmail.com",
+    "longName": "terminal-clock",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "terminal-clock",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "51a209f2-e385-4bfd-9eab-5e17c2e45092",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
