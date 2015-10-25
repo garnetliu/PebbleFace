@@ -7,12 +7,17 @@
     "longName": "terminal-clock",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/Menlo Regular",
+                "name": "MENLO_REGULAR_14",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "terminal-clock",
     "targetPlatforms": [
-        "aplite",
         "basalt"
     ],
     "uuid": "51a209f2-e385-4bfd-9eab-5e17c2e45092",
