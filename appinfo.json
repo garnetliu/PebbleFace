@@ -1,13 +1,22 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "aisishayao@gmail.com",
-    "longName": "terminal-clock",
+    "longName": "terminal watchface",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/Terminal.png",
+                "menuIcon": true,
+                "name": "terminal_logo",
+                "type": "png"
+            },
             {
                 "file": "fonts/Menlo Regular",
                 "name": "MENLO_REGULAR_14",
@@ -16,8 +25,9 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "terminal-clock",
+    "shortName": "terminal clock",
     "targetPlatforms": [
+        "aplite",
         "basalt"
     ],
     "uuid": "51a209f2-e385-4bfd-9eab-5e17c2e45092",
